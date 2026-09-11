@@ -8,3 +8,13 @@ saldo = saldo + 50
 
 console.log(`seu nome é ${nome} e você tem ${idade}`) // Crase ao contrário para fazer a Concatenação, pegar alguma variavel e por dentro do console.log
 console.log(`você tem ${saldo}`) 
+
+// 
+
+let on = true;
+let off = false;
+const numero = 56;
+
+console.log(typeof numero)
+console.log(typeof on)
+console.log(typeof off)
