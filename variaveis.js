@@ -11,6 +11,9 @@ console.log(`você tem ${saldo}`)
 
 // 
 
+
+//tipos de dados
+
 let on = true;
 let off = false;
 const numero = 56;
@@ -18,3 +21,4 @@ const numero = 56;
 console.log(typeof numero)
 console.log(typeof on)
 console.log(typeof off)
+
